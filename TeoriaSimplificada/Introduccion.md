@@ -37,6 +37,7 @@ usuario y para el instalador y mantenedor
   - Topología en malla
 
 ## Tipos de arquitecturas
+Las redes pueden ser estructuradas según su arquitectura, que determina cómo se comparten los recursos en la red. 
 - **Cliente-Servidor:** Múltiples clientes hacen peticiones a uno o más servidores con tal de abrir ciertos recursos compartidos permanentemente por estos (ficheros, impresoras, etc). Un ejemplo es la WWW.
 - **Peer-to-peer (P2P):** Todos los nodos hacen de clientes y servidores a la vez entre sí. Ejemplo: `BitTorrent`
 - **Cluster:** Todos los nodos trabajan en grupo para ofrecerse al resto de la red como un único nodo
