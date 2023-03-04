@@ -12,6 +12,9 @@ Si los paquetes cumplen las reglas los deja pasar, y si no lo hacen los filtra.
 - **El Bastión:** Servidor de seguridad situado en una zona entre la red externa y red interna (zona DMZ). Actúa como “puerta de entrada” y garantiza que la red interna esté segura. 
 - **El Switch:** Necesario para conectar el firewall y el bastión con otros dispositivos de las redes interna y externa.
 
+
+![Esquema simple](https://raw.githubusercontent.com/5ssz/Redes/main/TeoriaSimplificada/FirewallProxy/img/funcionamiento.png "Funcionamiento")
+
 | Ventajas | Desventajas |
 | -------- | ----------- |
 | Proporciona más seguridad que usar un simplemente usar un router |Puede ser vulnerable a ataques DoS |
