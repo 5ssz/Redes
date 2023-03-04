@@ -4,4 +4,4 @@
 
 ## Administración de dispositivos de red
 - [Firewall y Proxy](https://5ssz.github.io/Redes/TeoriaSimplificada/FirewallProxy)
-  - [Screened Host]()
+  - [Firewall: Screened Host]()
