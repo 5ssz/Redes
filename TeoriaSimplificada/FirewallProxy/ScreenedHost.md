@@ -15,6 +15,8 @@ Si los paquetes cumplen las reglas los deja pasar, y si no lo hacen los filtra.
 
 ![Esquema simple](https://raw.githubusercontent.com/5ssz/Redes/main/TeoriaSimplificada/FirewallProxy/img/funcionamiento.png "Funcionamiento")
 
+## Ventajas y desventajas
+Tabla simple sobre el Screened Host.
 | Ventajas | Desventajas |
 | -------- | ----------- |
 | Proporciona más seguridad que usar un simplemente usar un router |Puede ser vulnerable a ataques DoS |
